@@ -1,4 +1,4 @@
-.Whole {
+body {
     background-color: #E0ECE4;
 }
 
@@ -8,4 +8,15 @@ h1 {
 
 h2 {
     color: #056674;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol.center li {
+    text-align: center;
+    margin-right: 45px
+    
 }
